@@ -1,0 +1,2 @@
+model_checkpoint_path: "fruit-temp-v1.ckpt"
+all_model_checkpoint_paths: "fruit-temp-v1.ckpt"
